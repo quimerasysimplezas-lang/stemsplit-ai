@@ -1,0 +1,6 @@
+{
+  "name": "Stems AI",
+  "description": "Separador de stems con IA para canciones. Separa voces, batería, bajo y otros instrumentos con mezclador multipista, visualizadores y exportación en WAV y MP3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
